@@ -1,0 +1,7 @@
+numpy
+astropy
+scipy
+pandas
+matplotlib
+tqdm
+eagleSqlTools

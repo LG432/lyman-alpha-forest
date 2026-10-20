@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virutal environment
+venv/
+.venv/
+env/
+myenv/
+
+# Jupyter notebook
+.ipynb_checkpoints/
+
+# Generated data and outputs
+data/
+outputs/
+results/
+*.pkl
+*.pickle
+*.hdf5
+*.h5
+
+# Logs
+*.log
+
+
