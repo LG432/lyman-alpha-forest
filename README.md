@@ -14,5 +14,3 @@ This project develops a semi-analytic model of the Lyman-alpha forest using halo
 
 Install the required dependencies:
 
-```bash
-python -m pip install -r requirements.txt
